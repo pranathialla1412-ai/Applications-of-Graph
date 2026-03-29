@@ -1,0 +1,1 @@
+This project demonstrates real-world applications of graph data structures using algorithms like BFS, DFS, and Dijkstra’s. It shows how graphs are used in navigation systems, social networks, and network routing. Implemented with sample datasets for better understanding.
